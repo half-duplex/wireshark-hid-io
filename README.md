@@ -1,6 +1,8 @@
 # Wireshark HID-IO
 A basic, partial Lua dissector for [HID-IO](https://github.com/hid-io/hid-io/)
 
+![dissected hid-io screenshot](https://user-images.githubusercontent.com/1053010/121633069-adbea600-ca71-11eb-8569-7fe8327c49a2.png)
+
 ## Installation
 Download
 [hid-io.lua](https://github.com/half-duplex/wireshark-hid-io/blob/main/hid-io.lua)
